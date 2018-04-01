@@ -1,5 +1,11 @@
-# Exercise of React
+# Exercises of React
 
-This is an exercise of React for the learning of:
+These are exercises of my study of React.
+
+## the-base-syntax
 * JavaScript ES6
 * React's Base Features & Syntax
+
+## lists-conditionals--assignment-problem
+* conditionals
+* loops + components
